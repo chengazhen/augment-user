@@ -2,6 +2,9 @@
 
 这是一个用于自动化完成 AugmentCode 平台注册流程的工具。
 
+## 新版（可用）
+[文档](https://codercheng.notion.site/augment)
+
 ## 必备条件
 你首先要有一个cloudflare的域名邮箱，玩过 cursor auto free的肯定都知道。
 然后执行 augment-magic.exe 清理机器码。然后在继续执行 augment_auto.user.js 脚本。
